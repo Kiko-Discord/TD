@@ -1,0 +1,61 @@
+= Dragon Ball Legends =
+
+== Presentation == 
+Dragon Ball Legends est un jeu vidéo mobile de combat développé et édité par Bandai Namco Games sur iOS et Android, avec un mode en ligne et histoire, sorti le 31 mai 2018.
+Un site web spécialisé a été créé au nom de [[Dragon Ball Legends|https://dble.bn-ent.net/fr/]].
+
+== Mode Histoire ==
+Le mode histoire est un récit orignal basé sur un personnage principal nommé Shallot, un Saiyan venu du passé.
+
+'''L'histoire se découpe en plusieurs parties retraçant l'histoire de la saga Dragon Ball :'''
+* Saiyan atemporel 
+* Alliance avec l'Empereur du Mal 
+* Le cyborg de la destruction 
+* Le terrible Super Cell game 
+* Guerrières porteuses de tempêtes 
+* Combat décisif contre le Majin maléfique 
+* Vers un tout autre niveau 
+* De mauvaises intentions rampantes 
+* Shallot et Giblet 
+* Le pire ennemi passe à l'action 
+* Combats intenses dans l'univers 7 
+* La résolution de chacun 
+* Lutte contre les Dieux maléfiques 
+* Affrontement intense, les assassins les plus redoutables ! 
+* Une situation désespérée ! La Terre tremble ! 
+* Stratagème impitoyable, liens brisés
+
+== Système de jeu ==
+Le jeu est un jeu de combat en un contre un en temps réel qui se joue avec une équipe constituée de 3 combattants. Chaque joueur possède 4 cartes en bas de l'écran représentant chacune des techniques. Il suffit de cliquer dessus pour la déclencher. Les personnages possèdent aussi des compétences uniques et/ou spéciales ainsi que l' ''Enchainement Dévastateur''.
+
+== Les anniversaires ==
+Une fois par an, le jeu fête son anniversaire, donc un ou plusieurs personnages sont ajoutés.
+{| class="wikitable" style="margin:auto"
+|+ Anniversaire
+|-
+! 1 !! 2 !! 3 !! 4 !! 5 !! 6 
+|-
+| Goku Blue/Vegeto Blue ||  Vegeto Blue/Zamasu fusionné/Goku Super Saiyan 4/Trunks Super Saiyan Furieux '''(Legends Limited)''' || Gogeta Super Saiyan 4 '''(Legends Limited)'''/Gohan Super Saiyan 2 '''(Legends Limited)''' || Goku Ultra Instinct '''(Legends Limited)''' || Goku et Freezer '''(Legends Limited)''' || Super Saiyan divin SS Son Goku & Vegeta '''(Legends Limited)'''/Super Vegetto <- Vegeta + Son Goku '''(Legends Limited)''' 
+|}
+
+== Types de personnages ==
+Il existe différents types de personnages disponibles sur Dragon Ball Legends : Ultra, Sparking '''(dont les Legends Limited)''', Extreme, et Hero.
+Chaque personnage possède un attribut de couleurs et des classes par exemple : Saga des films, Ki Divin, Cyborg, Saiyan, etc...
+
+== Avantages des attributs ==
+'''''Rouge :''''' fort contre Jaune, faible contre Bleu et Ténèbres
+----
+'''''Jaune :''''' fort contre Violet, faible contre Rouge et Ténèbres
+----
+'''''Violet :''''' fort contre Vert, faible contre Jaune et Ténèbres
+----
+'''''Vert :''''' fort contre Bleu, faible contre Violet et Ténèbres
+----
+'''''Bleu :''''' fort contre Rouge, faible contre Vert et Ténèbres
+----
+'''''Ténèbres :''''' fort contre toutes les couleurs, faible contre Lumières
+----
+'''''Lumières :''''' fort contre Ténèbres, faible contre aucune couleurs
+----
+
+[[https://dble.bn-ent.net/fr/dist/img/ogp_ww_20190708.jpg|Dragon Ball Legends]]
